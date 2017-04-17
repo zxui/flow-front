@@ -1,4 +1,4 @@
-# auto-front3.0
+# flow-front3.0
 
 > A Vue.js project
 
